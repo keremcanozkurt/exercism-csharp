@@ -1,0 +1,38 @@
+{
+  "editor.fontSize": 50,
+  "editor.lineHeight": 30,
+  "editor.fontLigatures": false,
+
+  "terminal.integrated.fontSize": 30,
+  "terminal.integrated.lineHeight": 1.4,
+
+  "window.zoomLevel": 2,
+
+  "editor.minimap.enabled": false,
+  "editor.stickyScroll.enabled": false,
+
+  "editor.quickSuggestions": {
+    "other": "off",
+    "comments": "off",
+    "strings": "off"
+  },
+
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.tabCompletion": "off",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.snippetSuggestions": "none",
+
+  "editor.hover.delay": 1000,
+
+  "editor.wordWrap": "off",
+
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+
+  "editor.formatOnSave": false,
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": false,
+
+}
